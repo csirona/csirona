@@ -1,12 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristian Osorio
 =======================================================================================================================================
 
-Web Developer
+Computer Engineer
 -------------
 
-From Concepción Chile, Web Developer currently studying Informatics Engineering and self taught. Jumping into sistems and servers. I think maths and abstract things are fun. My first language is Spanish but I can use English to work. I have knowledge in python, go, JavaScript with their respective frameworks, also APIs. Database as PostgreSQL, MySQL, MongoDB, Oracle. Those things has been applied in different projects.
+I am a Computer Engineer from Concepción, Chile, currently seeking job opportunities. I hold a degree in Computer Engineering and am a dedicated self-taught learner. While Spanish is my first language, I am proficient in English and can comfortably use it in my daily life and for work.
 
-* 🌍  I'm based in Concepción Chile
+I possess strong knowledge in Python, Go, and JavaScript, along with their respective frameworks. My experience extends to working with APIs and databases, skills which I have applied in various professional and personal projects.
+
+* 🌍  I'm based in Coelemu Chile
 * ✉️  You can contact me at [cristianosvar@outlook.com](mailto:cristianosvar@outlook.com)
 * 🧠  I'm learning Backend languages and Linux
 * 🤝  I'm open to collaborating on Any project
